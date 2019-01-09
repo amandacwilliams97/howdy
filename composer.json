@@ -1,0 +1,12 @@
+{
+  "name":"awilliams/328/howdy/composer.json",
+  "authors":[
+    {
+      "name":"Amanda Williams",
+      "email":"awiiliams100@mail.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core":"dev-master"
+  }
+}
